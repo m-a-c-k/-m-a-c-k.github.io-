@@ -1,3 +1,3 @@
 # m-a-c-k.github.io
 
-This is supposed to be my static webpage
+This will be my static webpage
