@@ -56,6 +56,8 @@ html, body {
   flex:2;
 }
 .pages a {
+  text-decoration: none;
+  padding: 4px;
   color:lightgrey;
 }
 .pages a:hover {
