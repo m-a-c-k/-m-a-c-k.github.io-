@@ -43,7 +43,7 @@ html, body {
 }
 
 .links a {
-  color: white;
+  color: lightgrey;
   text-decoration: none;
   padding: 4px;
 }
@@ -56,7 +56,7 @@ html, body {
   flex:2;
 }
 .pages a {
-  color:white;
+  color:lightgrey;
 }
 .pages a:hover {
   background-color: rgba(0, 0, 0, 0.1);
