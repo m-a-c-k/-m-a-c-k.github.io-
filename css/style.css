@@ -10,7 +10,6 @@ html, body {
 }
 
 .wrapper {  
-  max-width: 70%;
   display: flex;
   flex-direction: row;
   height: 80%;
@@ -61,6 +60,8 @@ html, body {
 
 .pages{
   flex:2;
+  width:20%;
+  height:100px;
 }
 .pages a {
   text-decoration: none;
