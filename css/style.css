@@ -28,6 +28,12 @@ html, body {
 .left {
   align-items: center;
   justify-content: center;
+  width: 40%;
+  height: 400px;
+}
+.right{
+  width: 40%;
+  height: 400px;
 }
 
 .links {
