@@ -13,6 +13,7 @@ html, body {
   display: flex;
   flex-direction: row;
   height: 80%;
+  background-color: powderblue;
 }
 
 .left, .right {  
@@ -28,12 +29,10 @@ html, body {
   justify-content: center;
   width: 20%;
   height: 400px;
-  background-color: powderblue;
 }
 .right{
   width: 40%;
   height: 400px;
-  background-color: powderblue;
 }
 
 .links {
