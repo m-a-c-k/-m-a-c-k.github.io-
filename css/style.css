@@ -1,6 +1,6 @@
 
 html, body {
-  color: white;
+  color: lightgray;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -50,7 +50,7 @@ html, body {
 }
 
 .links a {
-  color: lightgrey;
+  color: dimgrey;
   text-decoration: none;
   padding: 4px;
 }
@@ -65,7 +65,7 @@ html, body {
 .pages a {
   text-decoration: none;
   padding: 4px;
-  color:lightgrey;
+  color:dimgrey;
 }
 .pages a:hover {
   background-color: rgba(0, 0, 0, 0.1);
