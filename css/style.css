@@ -20,7 +20,7 @@ html, body {
 
 .left, .right {  
   margin: 5px;
-  flex: 1;
+  flex: 2;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -29,12 +29,6 @@ html, body {
 .left {
   align-items: center;
   justify-content: center;
-  width: 20%;
-  height: 400px;
-}
-.right{
-  width: 40%;
-  height: 400px;
 }
 
 .links {
@@ -59,9 +53,7 @@ html, body {
 }
 
 .pages{
-  flex:2;
-  width:30%;
-  height:100px;
+  flex:1;
 }
 .pages a {
   text-decoration: none;
