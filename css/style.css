@@ -1,6 +1,6 @@
 
 html, body {
-  color: darkslateblue;
+  color: dimgrey;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,7 +17,6 @@ html, body {
 
 .left, .right {  
   margin: 5px;
-  max-width: 60%;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -27,14 +26,14 @@ html, body {
 .left {
   align-items: center;
   justify-content: center;
-  width: 30%;
+  width: 20%;
   height: 400px;
-  background-color: lightgrey;
+  background-color: powderblue;
 }
 .right{
-  width: 30%;
+  width: 40%;
   height: 400px;
-  background-color: lightgrey;
+  background-color: powderblue;
 }
 
 .links {
