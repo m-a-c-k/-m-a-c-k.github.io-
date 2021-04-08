@@ -1,6 +1,6 @@
 
 html, body {
-  color: lightgray;
+  color: darkslateblue;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,12 +27,12 @@ html, body {
 .left {
   align-items: center;
   justify-content: center;
-  width: 40%;
+  width: 30%;
   height: 400px;
   background-color: lightgrey;
 }
 .right{
-  width: 40%;
+  width: 30%;
   height: 400px;
   background-color: lightgrey;
 }
@@ -60,7 +60,7 @@ html, body {
 
 .pages{
   flex:2;
-  width:20%;
+  width:30%;
   height:100px;
 }
 .pages a {
